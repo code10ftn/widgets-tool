@@ -1,0 +1,3 @@
+luka|123|ADMIN
+helena|456|REGULAR
+aleksandar|789|REGULAR
